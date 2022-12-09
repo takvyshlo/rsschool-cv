@@ -8,7 +8,7 @@
 * **Discord:** takvyshlo#5065
 
 ### About Me
-###### *I am looking for something new. I wanted to start with IT. This looks interesting. Maybe I can realize myself.*
+*I am looking for something new. I wanted to start with IT. This looks interesting. Maybe I can realize myself.*
 
 ### Skils
 * *HTML\CSS (Basic)*
